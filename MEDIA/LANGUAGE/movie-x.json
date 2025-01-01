@@ -23,7 +23,13 @@
   "band_users": "❌ *You are banned from using Commands.....*",
   "erro": "Error",
   "err": "*An error occurred 🧑‍🎨❌*",
-  "try": "An error please try agein late"
+  "try": "An error please try agein late",
+  "tvup": "Starting...⏭",
+  "tvup2": "Fetching Episodes Urls...🔄",
+  "tvup3": "Fetching Episode Details and Dl Site Urls...🔄",
+  "tvup4": "Fetching Gdrive Urls...🔄",
+  "tvup5": "Fetching Gdrive Download Urls...🔄",
+  "tvup6": "All Details Fetch Successfull ✅\n Episodes Uploading...⬆"
 }
 
 }
