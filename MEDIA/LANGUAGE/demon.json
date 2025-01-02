@@ -1,0 +1,37 @@
+{
+  "BOT_NAME": "DEMON-X",
+  "VERSION": "1.0.0",
+  "LANG": {
+    "EN": {
+      "needText": "Kindly provide the text.",
+      "needUrl": "Please provide the URL.",
+      "needImage": "Please reply with an image.",
+      "needAdmin": "Bot update required.",
+      "needUserAdmin": "You need to be an admin to perform this action.",
+      "groupMsg": "This message is from a group chat.",
+      "inboxMsg": "This message is from a private inbox.",
+      "needFbUrl": "A Facebook URL is required.",
+      "needYtUrl": "A YouTube URL is required.",
+      "needTiktokUrl": "A TikTok URL is required.",
+      "notFound": "An error occurred. Please try again later."
+    },
+    "SI": {
+      "needText": "කරුණාකර මට පෙළක් ලබා දෙන්න!",
+      "needUrl": "කරුණාකර මට url එකක් ලබා දෙන්න",
+      "needImage": "කරුණාකර පිංචු තภาพක් ප්‍රතිඵලයක් ලෙස ලබා දෙන්න",
+      "needAdmin": "කරුණාකර මට බොට් අලුත් කිරීමක් ලබා දෙන්න",
+      "needUserAdmin": "ඔබ පරිපාලකයෙක් නොවේ",
+      "groupMsg": "මෙය කණ්ඩායම් පණිවුඩයකි",
+      "inboxMsg": "මෙය ආදාන පණිවුඩයකි",
+      "needFbUrl": "මට facebook url එකක් අවශ්‍යයි",
+      "needYtUrl": "මට youtube url එකක් අවශ්‍යයි",
+      "needTiktokUrl": "මට tiktok url එකක් අවශ්‍යයි",
+      "notFound": "දෝෂයක් සිදු විය, කරුණාකර නැවත උත්සාහ කරන්න"
+    },
+    "REACT": {
+      "error": "❌",
+      "success": "✔",
+      "need": "❓"
+    }
+  }
+}
