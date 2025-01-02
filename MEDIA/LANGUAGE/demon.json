@@ -13,7 +13,8 @@
       "needFbUrl": "A Facebook URL is required.",
       "needYtUrl": "A YouTube URL is required.",
       "needTiktokUrl": "A TikTok URL is required.",
-      "notFound": "An error occurred. Please try again later."
+      "notFound": "An error occurred. Please try again later.",
+      "nonBtnmg": ""
     },
     "SI": {
       "needText": "කරුණාකර මට පෙළක් ලබා දෙන්න!",
@@ -26,7 +27,8 @@
       "needFbUrl": "මට facebook url එකක් අවශ්‍යයි",
       "needYtUrl": "මට youtube url එකක් අවශ්‍යයි",
       "needTiktokUrl": "මට tiktok url එකක් අවශ්‍යයි",
-      "notFound": "දෝෂයක් සිදු විය, කරුණාකර නැවත උත්සාහ කරන්න"
+      "notFound": "දෝෂයක් සිදු විය, කරුණාකර නැවත උත්සාහ කරන්න",
+      "nonBtnmg": ""
     },
     "REACT": {
       "error": "❌",
