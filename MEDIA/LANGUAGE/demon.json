@@ -14,7 +14,8 @@
       "needYtUrl": "A YouTube URL is required.",
       "needTiktokUrl": "A TikTok URL is required.",
       "notFound": "An error occurred. Please try again later.",
-      "nonBtnmg": ""
+      "nonBtnmg": "",
+      "bandedMsg": "*Ubawa band karala tiyenne hukan netuwa palayan...*"
     },
     "SI": {
       "needText": "කරුණාකර මට පෙළක් ලබා දෙන්න!",
@@ -28,7 +29,8 @@
       "needYtUrl": "මට youtube url එකක් අවශ්‍යයි",
       "needTiktokUrl": "මට tiktok url එකක් අවශ්‍යයි",
       "notFound": "දෝෂයක් සිදු විය, කරුණාකර නැවත උත්සාහ කරන්න",
-      "nonBtnmg": ""
+      "nonBtnmg": "",
+      "bandedMsg": "*Ubawa band karala tiyenne hukan netuwa palayan...*"
     },
     "REACT": {
       "error": "❌",
